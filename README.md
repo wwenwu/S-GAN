@@ -1,4 +1,4 @@
-<center><font color=red size=6>S-GAN </center>
+<center><font color=red size=7>S-GAN </center>
 
 This repository is the official PyTorch implementation of <font color=red>S-GAN</font>. S-GAN achieves **state-of-the-art performance** in image quality and underwater image enhancement task. 
 
