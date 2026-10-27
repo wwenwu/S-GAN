@@ -12,7 +12,7 @@ This repository is the official PyTorch implementation of <font color=red>S-GAN<
 
 ### The samples of TFUI dataseted
 
-<center><img src="Figs/TFUI大图-paper.png" alt="TFUI" style="zoom:40%;" /></center>
+<center><img src="Figs/TFUI.png" alt="TFUI" style="zoom:40%;" /></center>
 
 ## The architecture of S-GAN
 
