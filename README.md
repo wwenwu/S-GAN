@@ -32,7 +32,8 @@ This repository is the official PyTorch implementation of <font color=red>S-GAN<
 
 ## :rocket: Train and inference
 
-- Our code is independent and complete. You can run `train.py` or `test.py` directly to execute S-GAN. The only thing you should pay attention to is modifying the paths in the code. 
+- Our code is independent and complete. You can run `train.py` or `test.py` directly to execute S-GAN. The only thing you should pay attention to is modifying the paths in the code.
+- Download the [unet](https://drive.google.com/drive/folders/1BhBSpWE9-R7hDSlcaLDG8f5Rs9Stahcu?usp=drive_link) and [ssd](https://drive.google.com/drive/folders/1-7Qt4ICxe3kNYrpyB7Jd1elThhUDpV_g?usp=sharing) fold and put them to S-GAN.
 - The main packages of S-GAN are Pytorch=\=2.1.1, cuda=\=12.1, and python==3.11. 
 
 
